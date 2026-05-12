@@ -22,6 +22,35 @@ The model evaluates:
 - Technology: Grid-connected Agrivoltaics
 - Project Lifetime: 25 years
 
+- ## Methodology
+
+The financial model evaluates the long-term techno-economic feasibility of a 0.6 MW grid-connected agrivoltaics system over a 25-year project lifetime.
+
+The model incorporates:
+
+- Annual energy generation estimation based on CUF and degradation
+- Debt-equity financing structure
+- Loan repayment schedules and EMI calculations
+- O&M cost escalation
+- Depreciation and salvage value calculations
+- Working capital interest
+- Annual cash flow analysis
+- Net Present Value (NPV)
+- Internal Rate of Return (IRR)
+- Payback period estimation
+- Agricultural co-benefits from dual land use
+
+The calculations were developed in Microsoft Excel using engineering-economic analysis principles commonly applied in renewable energy project evaluation.
+
+## Key Results
+
+- Plant Capacity: 0.6 MW
+- Project Lifetime: 25 years
+- Payback Period: 5.3 years
+- Internal Rate of Return (IRR): 19%
+- Net Present Value (NPV): INR 13.4 lakh
+- Combined agricultural and electricity revenue evaluated under long-term operational assumptions
+
 ## Tools Used
 - Microsoft Excel
 - Financial modelling
